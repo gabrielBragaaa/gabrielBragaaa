@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado, motivado por transformar ideias em código e ap
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
+
   <!-- Languages -->
  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
