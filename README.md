@@ -68,4 +68,4 @@ Atualmente estou focado em evoluir minha carreira como desenvolvedor Java, const
 
 ## ⚡ Objetivo
 
-Busco uma oportunidade como **Desenvolvedor Java Júnior**, onde eu possa contribuir com o time, aprender continuamente e evoluir profissionalmente.
+Busco uma oportunidade como **Desenvolvedor Java**, onde eu possa contribuir com o time, aprender continuamente e evoluir profissionalmente.
