@@ -61,8 +61,8 @@ Atualmente estou focado em evoluir minha carreira como desenvolvedor Java, const
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (coloque aqui)
-- 📧 Email: (coloque aqui)
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-braga-97114b251/
+- 📧 Email: gabriel.bragaa10@gmail.com
 
 ---
 
