@@ -32,38 +32,9 @@ Atualmente estou focado em evoluir minha carreira como desenvolvedor Java, const
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45"/>        
           
 </p>
-
----
-
-## 📌 Principais Projetos
-
-🔹 **Sistema Backend com Spring Boot**
-- API REST completa
-- Integração com banco de dados
-- Estrutura em camadas (Controller, Service, Repository)
-
-🔹 **Projeto com Mensageria**
-- Comunicação assíncrona
-- Uso de filas e processamento desacoplado
-
-🔹 **Aplicação Mobile com Flutter**
-- Consumo de API
-- Interface moderna
-
----
-
-## 📊 Estatísticas
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 📫 Contato
 
