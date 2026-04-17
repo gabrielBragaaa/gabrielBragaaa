@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado, motivado por transformar ideias em código e ap
 
   <!-- Languages -->
  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80" height="80" />
           
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <!-- Frameworks -->
