@@ -12,7 +12,7 @@ Atualmente estou focado em evoluir minha carreira como desenvolvedor Java, const
 - 📚 Estudando Java desde 2022
 - ⚙️ Experiência com APIs REST e sistemas backend
 - 🧠 Interesse em arquitetura de software e microsserviços
-- 🎯 Buscando minha primeira oportunidade como desenvolvedor Java
+- 🎯 Buscando oportunidade como desenvolvedor Java
 
 ---
 
