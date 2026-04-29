@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack com foco em **Java Backend**
 
-Tenho experiência prática com **Java, Spring Boot, APIs REST, bancos relacionais e mensageria**.  
+Tenho experiência prática com **Java, Spring Boot, APIs REST, bancos relacionais.  
 Atualmente estou focado em evoluir minha carreira como desenvolvedor Java, construindo projetos reais e aprofundando conhecimentos em arquitetura e boas práticas.
 
 ---
