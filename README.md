@@ -1,12 +1,12 @@
 # Gabriel Braga
 
-Desenvolvedor Full Stack com foco em Java Backend.
+Backend Developer | Java & Spring Boot
 
-Atualmente trabalhando com Java, Spring Boot, APIs REST, bancos relacionais, Docker e versionamento com Git.
+Desenvolvimento de aplicações backend utilizando Java, Spring Boot e APIs REST.
 
 ---
 
-## Tecnologias
+## Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
@@ -16,13 +16,23 @@ Atualmente trabalhando com Java, Spring Boot, APIs REST, bancos relacionais, Doc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" width="60"/>
 </p>
 
 ---
 
+## Atualmente estudando
+
+- Microsserviços
+- Docker
+- AWS
+- Arquitetura de Software
+- Mensageria
+
+---
+
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/gabriel-braga-97114b251/
+- LinkedIn: www.linkedin.com/in/gabriel-braga-97114b251
 - Email: gabriel.bragaa10@gmail.com
+```
