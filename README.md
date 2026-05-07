@@ -4,16 +4,6 @@
 
 Tenho experiência prática com **Java, Spring Boot, APIs REST, bancos relacionais.  
 Atualmente estou focado em evoluir minha carreira como desenvolvedor Java, construindo projetos reais e aprofundando conhecimentos em arquitetura e boas práticas.
-
----
-
-## 🚀 Sobre mim
-
-- 📚 Estudando Java desde 2022
-- ⚙️ Experiência com APIs REST e sistemas backend
-- 🧠 Interesse em arquitetura de software e microsserviços
-- 🎯 Buscando oportunidade como desenvolvedor Java
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -40,7 +30,3 @@ Atualmente estou focado em evoluir minha carreira como desenvolvedor Java, const
 - 📧 Email: gabriel.bragaa10@gmail.com
 
 ---
-
-## ⚡ Objetivo
-
-Busco uma oportunidade como **Desenvolvedor Java**, onde eu possa contribuir com o time, aprender continuamente e evoluir profissionalmente.
