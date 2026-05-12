@@ -1,11 +1,7 @@
 # Gabriel Braga
 
 Desenvolvedor Full Stack com foco em Java Backend.
-
-Atualmente trabalhando com Java, Spring Boot, APIs REST, bancos relacionais, Docker e versionamento com Git.
-
 ---
-
 ## Tecnologias
 
 <p align="left">
