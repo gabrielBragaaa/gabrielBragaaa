@@ -8,10 +8,10 @@ Busco evoluir constantemente como desenvolvedor, aprimorando meus conhecimentos 
 
 ### 🚀 Sobre mim
 
-- 🎓 Analista e Desenvolvedor de Sistemas
-- 💻 Foco em desenvolvimento back-end com Java
-- 📚 Estudo contínuo de Java, Spring e inglês
-- 🌱 Sempre aprendendo através de projetos práticos
+* 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+* 💻 Foco em desenvolvimento **back-end com Java**
+* 📚 Estudo contínuo de **Java, Spring e inglês**
+* 🌱 Aprendizado através de **projetos práticos**
 
 ---
 
@@ -29,7 +29,7 @@ Busco evoluir constantemente como desenvolvedor, aprimorando meus conhecimentos 
 ---
 
 ### 📈 Estatísticas do GitHub
-</p>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielBragaaa&theme=default" alt="GitHub Streak"/>
 </p>
