@@ -2,6 +2,8 @@
 
 Sou **Analista e Desenvolvedor de Sistemas**, com foco em **desenvolvimento Java**.
 
+Busco evoluir constantemente como desenvolvedor, aprimorando meus conhecimentos em Java, Spring e desenvolvimento de APIs, sempre com foco em escrever código organizado, aplicar boas práticas e transformar conhecimento em projetos práticos.
+
 ---
 
 ### 🚀 Sobre mim
@@ -34,5 +36,7 @@ Sou **Analista e Desenvolvedor de Sistemas**, com foco em **desenvolvimento Java
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielBragaaa&theme=default" alt="GitHub Streak"/>
 </p>
+
+---
 
 Obrigado pela visita! Fique à vontade para explorar meus repositórios. 🙂
