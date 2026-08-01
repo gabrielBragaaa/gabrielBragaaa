@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-Sou **Analista e Desenvolvedor de Sistemas** (formado), atualmente trabalhando como técnico em informática e em transição de carreira para **desenvolvimento de software**. Estou em busca da minha primeira oportunidade como **Desenvolvedor Java**.
+Sou **Analista e Desenvolvedor de Sistemas**, atualmente trabalhando como técnico em informática e em transição de carreira para **desenvolvimento de software**. Estou em busca da minha primeira oportunidade como **Desenvolvedor Java**.
 
 Dedico parte da minha rotina diária ao estudo de inglês e ao aprofundamento em Java, sempre buscando evoluir tecnicamente e me preparar para os desafios do mercado.
 
@@ -38,7 +38,7 @@ Dedico parte da minha rotina diária ao estudo de inglês e ao aprofundamento em
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default" alt="GitHub Streak"/>
 </p>
 
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para as estatísticas funcionarem.
+> Substitua `gabrielBragaaa` pelo seu nome de usuário do GitHub para as estatísticas funcionarem.
 
 ---
 
