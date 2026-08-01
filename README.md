@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-Sou **Analista e Desenvolvedor de Sistemas**, com foco em desenvimento back-end com em **Java**.
+Sou **Analista e Desenvolvedor de Sistemas**, com foco em desenvimento back-end com **Java**.
 
 Busco evoluir constantemente como desenvolvedor, aprimorando meus conhecimentos em Java, Spring e desenvolvimento de APIs, sempre com foco em escrever código organizado, aplicar boas práticas e transformar conhecimento em projetos práticos.
 
