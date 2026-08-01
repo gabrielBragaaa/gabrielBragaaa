@@ -36,7 +36,3 @@ Busco evoluir constantemente como desenvolvedor, aprimorando meus conhecimentos 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielBragaaa&theme=default" alt="GitHub Streak"/>
 </p>
-
----
-
-Obrigado pela visita! Fique à vontade para explorar meus repositórios. 🙂
