@@ -1,18 +1,15 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-Sou **Analista e Desenvolvedor de Sistemas**, atualmente trabalhando como técnico em informática e em transição de carreira para **desenvolvimento de software**. Estou em busca da minha primeira oportunidade como **Desenvolvedor Java**.
-
-Dedico parte da minha rotina diária ao estudo de inglês e ao aprofundamento em Java, sempre buscando evoluir tecnicamente e me preparar para os desafios do mercado.
+Sou **Analista e Desenvolvedor de Sistemas**, com foco em **desenvolvimento Java**.
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 💻 Técnico em informática, com interesse crescente em desenvolvimento back-end
-- 📚 Estudando Java e inglês diariamente
-- 🎯 Objetivo atual: conseguir minha primeira vaga como Dev Java
-- 🌱 Sempre aprendendo e evoluindo através de projetos práticos
+- 🎓 Analista e Desenvolvedor de Sistemas
+- 💻 Foco em desenvolvimento back-end com Java
+- 📚 Estudo contínuo de Java, Spring e inglês
+- 🌱 Sempre aprendendo através de projetos práticos
 
 ---
 
@@ -32,20 +29,10 @@ Dedico parte da minha rotina diária ao estudo de inglês e ao aprofundamento em
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielBragaaa&show_icons=true&theme=default" alt="GitHub Stats"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielBragaaa&theme=default" alt="GitHub Streak"/>
 </p>
-
-> Substitua `gabrielBragaaa` pelo seu nome de usuário do GitHub para as estatísticas funcionarem.
-
----
-
-### 📌 Fixados
-
-_Adicione aqui os repositórios que você quer destacar (fixe até 6 no seu perfil do GitHub para que apareçam automaticamente acima do README)._
-
----
 
 Obrigado pela visita! Fique à vontade para explorar meus repositórios. 🙂
