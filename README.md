@@ -27,9 +27,3 @@ Busco evoluir constantemente como desenvolvedor, aprimorando meus conhecimentos 
 </p>
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielBragaaa&theme=default" alt="GitHub Streak"/>
-</p>
